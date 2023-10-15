@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //Mode some changes locally the following week
+    //testing
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
